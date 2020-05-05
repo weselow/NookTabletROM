@@ -16,3 +16,6 @@
 https://iamafanof.wordpress.com/2014/09/28/cm11-0-kitkat-android-4-4-4-for-nook-tablet-sdcimg-xxsep2014/
 
 Требует буквального соблюдения каждой строчки.
+
+## Дополнительно
+Другие инструкции, если что, буду дополнять тут: https://hackworlds.com/vse-proshivki-dlya-barnesnoble-nook-tablet
