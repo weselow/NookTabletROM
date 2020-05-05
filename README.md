@@ -1,5 +1,5 @@
 # NookTabletROM
- All necessary files to flash Nookk Tablet to Android 4.4.4
+ All necessary files to flash Nook Tablet to Android 4.4.4
  
  ![Nook Tablet](https://github.com/weselow/NookTabletROM/blob/master/pics/nook-tablet.jpg)
  
