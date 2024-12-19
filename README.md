@@ -1,7 +1,7 @@
 # NookTabletROM
  All necessary files to flash Nook Tablet to Android 4.4.4
  
- ![Nook Tablet](https://github.com/weselow/NookTabletROM/blob/master/pics/nook-tablet.jpg)
+ ![Nook Tablet](pics/nook-tablet.jpg)
  
  Была у меня с 2011 года книжка Barnes & Noble Nook Tablet. Удобная. Весит, как энциклопедия, и в оригинальной кожаной обложке толщиной пол-сантиметра, как книга заклинаний. При покупке прошил сразу, чтобы все книги поддерживались.
 
